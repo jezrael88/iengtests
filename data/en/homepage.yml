@@ -1,0 +1,156 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-2.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Online Course Programmes"
+      content : "Unlike other IELTS courses online, we do not leave you to yourself.  You will have real lessons from a Cambridge Certified IELTS Expert to determine your weak areas and improve them."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Register for FREE!"
+        link : "english-proficiency-test.html"
+
+    # slider item loop
+    - title : "Our Victory Secrets For Your Success"
+      content : "We've helped over 5,904 students worldwide and counting!"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Join us for FREE!"
+        link : "oet.html"
+
+    # slider item loop
+    - title : "Student-centered learning, 24/7 supported"
+      content : "A very good online platform for IELTS preparation especially Roland is an awesome teacher. He gave me the best instruction for writing module. Their attitude and service is so nice. If anyone seeks for an online teacher I will recommend Roland and this page. They can give proper guidelines and structures for IELTS – Shaf, Bangladesh"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "See Student Reviews"
+        link : "https://www.facebook.com/pg/englishtestsexpert/reviews"
+
+    # slider item loop
+    - title : "How good is your English?"
+      content : "Start by taking our English level test for FEE!"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "FREE English Test"
+        link : "english-proficiency-test.html"        
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.png"
+  feature_item:
+    # feature item loop
+    - name : "Unli & ‘Until You Pass’ 1-on-1 Tutorials"
+      icon : "ti-user" # icon pack : https://themify.me/themify-icons
+      content : "Unlimited coaching with an experienced IELTS Director (Cambridge Certified) to ensure all of your weak areas are addressed and improved."
+
+    # feature item loop
+    - name : "Unli Access to Englishtests Platform"
+      icon : "ti-desktop" # icon pack : https://themify.me/themify-icons
+      content : "Unli access to our most powerful learning platform to cover Reading, Writing, Listening and Speaking modules. This includes Practice Materials, Authentic Mock Tests and many more!"
+
+    # feature item loop
+    - name : "Unli & ‘Until You Pass’ Writing & Speaking Assessments"
+      icon : "ti-infinite" # icon pack : https://themify.me/themify-icons
+      content : "Weekly detailed assessment and personalised feedback by a highly trained IELTS Expert (also a member of National Union of Journalists (UK & Ireland)) -  you will encounter every type of IELTS writing question so nothing should surprise you on the exam day."
+
+    # feature item loop
+    - name : "Unlimited Live Classes"
+      icon : "ti-headphone-alt" # icon pack : https://themify.me/themify-icons
+      content : "You will not be alone - you will have live training and Q&A session. Our experts will support you all the way ‘Until You Pass’ to get the score you need."
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "Why Choose Us"
+  image : "images/about/about-us.jpg"
+  content : "EE is an efficiency obsessed centre that helps test takers save time on test preparation while increasing results. Every day we're driven to solve the world's English exams using developed and applied strategies on the actual tests. Using our preparation services are proven to help students improve by 0.5 - 1.5. Our IELTS and OET practice tests are based on actual recent exams and following the Cambridge IELTS and Occupational English Test book formats."
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about"
+
+
+############################# Course ################################
+course:
+  enable : false
+  title : "Our Courses"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "Click to Join Our Study Groups for FREE!"
+  title : "We’ve helped over 5,904 students and counting!"
+  button:
+    enable : true
+    label : "Join Now"
+    link : "contact"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.webp"
+  title : "Success Stories"
+  content : |
+          "Personally, I think Englishtests Experts is the best place for online IELTS preparation, especially for working people like me. Thank you Mr. Roland for providing me with detailed feedback for every writing task. I will definitely recommend it to everyone who is planning to sit in the IELTS test and want to achieve their desired band score." - Riya, India
+  button:
+    enable : true
+    label : "See other reviews"
+    link : "contact"        
+  # video link
+  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+
+
+############################# event ################################
+event:
+  enable : false
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "TEACHERS"
+      count : "60"
+
+    # funfact item loop
+    - name : "COURSES"
+      count : "50"
+
+    # funfact item loop
+    - name : "LOVERS"
+      count : "1000"
+
+    # funfact item loop
+    - name : "SATISFIED CLIENT"
+      count : "1400"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : false
+  title : "Expert Tips & Tutorials"
+  # blog item comes from "content/**/blog" folder.
