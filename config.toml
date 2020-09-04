@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+baseURL = "https://iengtests.com"
+title = "iEngtests"
 theme = "educenter-hugo-master"
 # post pagination
 paginate = "6"
@@ -37,8 +37,6 @@ link = "plugins/slick/slick.min.js"
 link = "plugins/venobox/venobox.min.js"
 [[params.plugins.js]]
 link = "plugins/filterizr/jquery.filterizr.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
 
 
 ############################## navigation ###############################
@@ -126,35 +124,21 @@ enable = true
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
-# google map
-[params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png" # marker size 37*55 px
-  
 ############################# social site ########################
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/englishtestsexpert/"
+link = "https://www.facebook.com/iEngtests/"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "https://www.instagram.com/englishtestsexpert/"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "https://ph.linkedin.com/in/roland-adala"
+link = "https://www.instagram.com/iengtests/"
 
 [[params.social]]
 title = "youtube"
 icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
-link = "https://ph.linkedin.com/in/roland-adala"
-
+link = "https://www.youtube.com/channel/UCZmWbWGp2_QQ_g27C1sMImQ?view_as=subscriber"
 
 ################################### English language #####################################
 [Languages.en]
@@ -164,4 +148,8 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "IELTS is a registered trademark of University of Cambridge, the British Council, and IDP Education Australia. OET is a registered trademark of Cambridge Assessment English and Boxhill Institute. This site and its owners are not affiliated, approved or endorsed by the University of Cambridge ESOL, the British Council, IDP Education Australia, and Cambridge Boxhill Language Assessment. Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "IELTS is a registered trademark of University of Cambridge, the British Council, and IDP Education Australia. OET is a registered trademark of Cambridge Assessment English and Boxhill Institute. This site and its owners are not affiliated, approved or endorsed by the University of Cambridge ESOL, the British Council, IDP Education Australia, and Cambridge Boxhill Language Assessment."
+
+copyright2 = "iENGTESTS is owned by iENGTESTS. Cofounders are UK professionals from England and Wales, China and the Philippines. For further information, please [click here](about)."
+
+copyright3 = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"

@@ -34,6 +34,10 @@
             <li class="mb-4">{{ site.Params.address | markdownify }}</li>
             <li class="mb-4">{{ site.Params.email | markdownify }}</li>
             <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
+            <!-- footer social below logo-->
+            {{ range site.Params.social }}
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="{{ .link | safeURL }}"><i class="{{ .icon }} text-primary"></i></a></li>
+            {{ end }}
           </ul>
         </div>
         <!-- company -->
@@ -83,6 +87,12 @@
       <div class="row">
         <div class="col-sm-12 text-sm-center text-center">
           <p class="mb-0">{{ site.Params.copyright | markdownify }}</p>
+          <br>
+          <p class="mb-0">{{ site.Params.copyright2 | markdownify }}</p>
+          <br/>
+          <br>
+          <p class="mb-0">{{ site.Params.copyright3 | markdownify }}</p>
+          <br/>
         </div>
       </div>
     </div>

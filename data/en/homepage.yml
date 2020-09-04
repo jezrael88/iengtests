@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/banner-2.jpg"
   slider_item:
     # slider item loop
-    - title : "Learn with our experts - ‘Until You Pass’"
+    - title : "Learn from our experts - ‘Until You Pass’"
       content : "Unlike other IELTS courses online, we do not leave you to yourself. You will have REAL LESSONS from a highly trained professional. Your goals are unique, the guidance you get on test preparations should be too."
       animation_in : "left"
       animation_out : "right"

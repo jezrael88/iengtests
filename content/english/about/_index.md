@@ -6,18 +6,13 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "iEngtests is an efficiency obsessed centre that helps test takers save time on test preparation while increasing results."
 ---
 
-## ABOUT OUR JOURNY
+## Your Success Is Our Success
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+iEngtests is built by our trusted UK professionals and is proud of helping people worldwide win their test goals from start to finish.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+There’s more to a test preparation centre than just teaching and learning English. At Englishtests Expert, we utilise a diverse and enriched curriculum to teach our learners to be familiarised with test formats and contents, effective methods, strategies and skill-building techniques with the subject they need to master. This also includes covering all the rules of the exam, providing mock tests, group activities, and language preparation tools that stimulate the actual tests. Our intention is not necessary to allow students to reach 9.0 OBS standard but to empower students to be more confident speakers and to provide a pathway to writing better quality essays that are of an academic standard and style.  
+
+The company tagline is ‘Your Success Is Our Success’ because our success solely depends on our attention to the needs of our students and truly helping them achieve - we don't succeed unless they succeed.
