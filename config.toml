@@ -56,11 +56,6 @@ URL = "oet.html"
 weight = 2
 
 [[menu.main]]
-name = "course"
-URL = "course"
-weight = 3
-
-[[menu.main]]
 name = "blog"
 URL = "blog"
 weight = 6

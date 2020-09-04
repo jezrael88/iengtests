@@ -4,48 +4,48 @@ slider:
   bg_image : "images/banner/banner-2.jpg"
   slider_item:
     # slider item loop
-    - title : "Online Course Programmes"
-      content : "Unlike other IELTS courses online, we do not leave you to yourself.  You will have real lessons from a Cambridge Certified IELTS Expert to determine your weak areas and improve them."
+    - title : "Learn with our experts - ‘Until You Pass’"
+      content : "Unlike other IELTS courses online, we do not leave you to yourself. You will have REAL LESSONS from a highly trained professional. Your goals are unique, the guidance you get on test preparations should be too."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Register for FREE!"
-        link : "english-proficiency-test.html"
+        label : "Get a Pro Guidance"
+        link : "#"
 
     # slider item loop
-    - title : "Our Victory Secrets For Your Success"
-      content : "We've helped over 5,904 students worldwide and counting!"
+    - title : "Weekly Writing Challenge"
+      content : "Learn to complete the writing tasks with time constraints like the REAL exam. Your writing will be assessed by a Cambridge Certified IELTS Expert and a member of National Union of Journalists (UK & Ireland)."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Join us for FREE!"
-        link : "oet.html"
+        label : "Yes to the challenge!"
+        link : "#"
 
     # slider item loop
-    - title : "Student-centered learning, 24/7 supported"
-      content : "A very good online platform for IELTS preparation especially Roland is an awesome teacher. He gave me the best instruction for writing module. Their attitude and service is so nice. If anyone seeks for an online teacher I will recommend Roland and this page. They can give proper guidelines and structures for IELTS – Shaf, Bangladesh"
+    - title : "1-on-1 Live Speaking Simulation"
+      content : "You will have a personal coach to help you improve your communication skills.   Your coach will determine your weak points and will give you detailed feedback via online."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "See Student Reviews"
-        link : "https://www.facebook.com/pg/englishtestsexpert/reviews"
+        label : "Speak to the Expert"
+        link : "#"
 
     # slider item loop
-    - title : "How good is your English?"
-      content : "Start by taking our English level test for FEE!"
+    - title : "Learn the UK academic style and standard"
+      content : "Offering immediate access to a knowledgeable support network, interactive learning platforms, UK trained professionals and powerful educational resources where 90% of our graduates improved their scores by 0.5 - 1.5."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "FREE English Test"
-        link : "english-proficiency-test.html"        
+        label : "Learn More"
+        link : "#"        
 
 
 ############################### Banner feature ###############################
@@ -121,7 +121,7 @@ success_story:
 ############################# event ################################
 event:
   enable : false
-  title : "Upcoming Events"
+  title : "Join our live sessions for advice from the experts"
   # event item comes from "content/**/event" folder.
 
   
