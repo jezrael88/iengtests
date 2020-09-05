@@ -142,6 +142,11 @@ link = "https://www.youtube.com/channel/UCZmWbWGp2_QQ_g27C1sMImQ?view_as=subscri
 
 ################################### English language #####################################
 
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content"
+weight = 1
 home = "Home"
 
 # copyright
