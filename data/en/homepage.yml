@@ -37,15 +37,15 @@ slider:
         link : "#"
 
     # slider item loop
-    - title : "Learn the UK academic style and standard"
+    - title : "Helping you every step of the way"
       content : "Offering immediate access to a knowledgeable support network, interactive learning platforms, UK trained professionals and powerful educational resources where 90% of our graduates improved their scores by 0.5 - 1.5."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Learn More"
-        link : "#"        
+        label : "Contact Us"
+        link : "contact"        
 
 
 ############################### Banner feature ###############################
@@ -59,7 +59,7 @@ banner_feature:
       content : "Unlimited coaching with an experienced IELTS Director (Cambridge Certified) to ensure all of your weak areas are addressed and improved."
 
     # feature item loop
-    - name : "Unli Access to Englishtests Platform"
+    - name : "Unli Access to iEngtests Platform"
       icon : "ti-desktop" # icon pack : https://themify.me/themify-icons
       content : "Unli access to our most powerful learning platform to cover Reading, Writing, Listening and Speaking modules. This includes Practice Materials, Authentic Mock Tests and many more!"
 
@@ -77,9 +77,9 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "Why Choose Us"
+  title : "Learn the UK academic style and standard"
   image : "images/about/about-us.jpg"
-  content : "EE is an efficiency obsessed centre that helps test takers save time on test preparation while increasing results. Every day we're driven to solve the world's English exams using developed and applied strategies on the actual tests. Using our preparation services are proven to help students improve by 0.5 - 1.5. Our IELTS and OET practice tests are based on actual recent exams and following the Cambridge IELTS and Occupational English Test book formats."
+  content : "iEngtests is an efficiency obsessed centre that helps test takers save time on test preparation while increasing results. Every day we're driven to solve the world's English exams using developed and applied strategies on the actual tests. Using our preparation services are proven to help students improve by 0.5 - 1.5. Our IELTS and OET practice tests are based on actual recent exams and following the Cambridge IELTS and Occupational English Test book formats."
   button:
     enable : true
     label : "Learn more"
@@ -109,13 +109,13 @@ success_story:
   bg_image : "images/backgrounds/success-story.webp"
   title : "Success Stories"
   content : |
-          "Personally, I think Englishtests Experts is the best place for online IELTS preparation, especially for working people like me. Thank you Mr. Roland for providing me with detailed feedback for every writing task. I will definitely recommend it to everyone who is planning to sit in the IELTS test and want to achieve their desired band score." - Riya, India
+          "Personally, I think iEngtests is the best place for online IELTS preparation, especially for working people like me. Thank you Mr. Roland for providing me with detailed feedback for every writing task. I will definitely recommend it to everyone who is planning to sit in the IELTS test and want to achieve their desired band score." - Riya, India
   button:
     enable : true
     label : "See other reviews"
     link : "contact"        
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  video_link : "https://www.youtube.com/watch?v=kd8d6x0wdNU"
 
 
 ############################# event ################################
@@ -130,20 +130,8 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
-
-    # funfact item loop
-    - name : "COURSES"
-      count : "50"
-
-    # funfact item loop
-    - name : "LOVERS"
-      count : "1000"
-
-    # funfact item loop
     - name : "SATISFIED CLIENT"
-      count : "1400"
+      count : "5904"
 
 # funfact is for about page
 

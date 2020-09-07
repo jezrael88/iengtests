@@ -31,9 +31,9 @@
           <!-- logo -->
           <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}"><img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
           <ul class="list-unstyled">
-            <li class="mb-4">{{ site.Params.address | markdownify }}</li>
             <li class="mb-4">{{ site.Params.email | markdownify }}</li>
-            <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
+            <li class="mb-4"><a href="tel:{{ site.Params.mobile }}">{{ site.Params.mobile }}</a></li>
+            
             <!-- footer social below logo-->
             {{ range site.Params.social }}
             <li class="list-inline-item"><a class="d-inline-block p-2" href="{{ .link | safeURL }}"><i class="{{ .icon }} text-primary"></i></a></li>
