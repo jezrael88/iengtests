@@ -104,7 +104,7 @@ description = "iEngtests Test Preparations"
 author = "Themefisher"
 # contact info
 mobile = "+63 998 165 1871"
-email = "info@englishtestsexpert.co.uk"
+email = "roland@iengtests.com"
 # contact form action
 contact_form_action = "+639981651871" # contact form works with https://formspree.io
 # Google Analitycs
@@ -154,6 +154,6 @@ copyright = "IELTS is a registered trademark of University of Cambridge, the Bri
 
 copyright2 = "iENGTESTS is owned by iENGTESTS. Cofounders are UK professionals from England and Wales, China and the Philippines. For further information, please [click here](about)."
 
-copyright3 = "[Privacy Statement](privacystatement) | [Terms & Conditions](termsandconditions)"
+copyright3 = "[Privacy Statement](/privacystatement) | [Terms & Conditions](/termsandconditions)"
 
 copyright4 = "Copyright &copy; 2020 iEngtests, All Rights Reserved. A hugo theme by [themefisher](https://themefisher.com)"
