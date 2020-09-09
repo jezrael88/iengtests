@@ -17,6 +17,18 @@
 </section>
 <!-- /about -->
 
+<!-- Youtube Video Link-->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-sm-center text-center">
+        <iframe width="1288" height="724" src="https://www.youtube.com/embed/VS8Huxzyldw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /Youtube Video Link-->
+
 <!-- funfacts -->
 {{ if $data.homepage.funfacts.enable }}
 {{ with $data.homepage.funfacts }}
@@ -27,7 +39,6 @@
       {{ range .funfact_item }}
       <div class="col-md-12 col-sm-6 mb-4 mb-md-0">
         <div class="text-center">
-          <h2 class="count text-white" data-count="{{ .count }}">0</h2>
           <h5 class="text-white">{{ .name }}</h5>
         </div>
       </div>

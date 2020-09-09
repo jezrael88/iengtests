@@ -130,8 +130,7 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "5904"
+    - name : "YOUR SUCCESS IS OUR SUCCESS"
 
 # funfact is for about page
 
