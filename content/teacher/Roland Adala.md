@@ -1,14 +1,14 @@
 ---
-title: "Alex Rook"
+title: "Roland Adala"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # teacher portrait
-image: "images/teachers/teacher-2.jpg"
+image: "images/teachers/teacher-1.jpg"
 # course
-course: "Vlogging"
+course: "IELTS, OET"
 # biography
 bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
@@ -16,39 +16,24 @@ interest: ["Computer Networking","Computer Security","Human Computer Interfacing
 # contact info
 contact:
   # contact item loop
-  - name : "clarkmalik@email.com"
+  - name : "roland@iengtests.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:clarkmalik@email.com"
+    link : "mailto:roland@iengtests.com"
 
   # contact item loop
-  - name : "+12 034 5876"
+  - name : "+63 998 165 1871"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "tel:+639981651871"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Roland Adala"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://www.facebook.com/iEngtestswithRoland"
 
   # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "clarkmalik.com"
-    icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "#"
-
-  # contact item loop
-  - name : "1313 Boulevard Cremazie,Quebec"
-    icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-    link : "#"
+  - name : "Roland Adala"
+    icon : "ti-youtube" # icon pack : https://themify.me/themify-icons
+    link : "https://www.youtube.com/channel/UCZmWbWGp2_QQ_g27C1sMImQ?view_as=subscriber"
 
 # type
 type: "teacher"
