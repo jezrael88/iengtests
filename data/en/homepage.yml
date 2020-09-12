@@ -135,7 +135,6 @@ funfacts:
 # funfact is for about page
 
 
-
 ############################# blog ################################
 blog:
   enable : false

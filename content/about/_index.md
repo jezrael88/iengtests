@@ -26,13 +26,3 @@ Founded in 2011. Known as English Express, and later expanded in the Philippines
 
 ________________________________________
 ### Meet Roland - our Founder & Director
-
-Roland Adala
-
-Founder and Director
-
-Contact info
-Email: roland@iengtests.com
-Mobile: +63 998 165 1871
-Facebook: https://www.facebook.com/iEngtestswithRoland
-Youtube: 
