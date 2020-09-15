@@ -13,7 +13,9 @@ category: "OET"
 # teacher
 teacher: "Roland Adala"
 # duration
-duration : "6 months Unli & Until You Pass (2 hrs per session)"
+duration : "6 months Unli & Until You Pass"
+# weekly:
+weekly: "2 Hours"
 # course fee
 fee : "$211"
 # apply url

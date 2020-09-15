@@ -13,7 +13,9 @@ category: "IELTS"
 # teacher
 teacher: "Roland Adala"
 # duration
-duration : "6 months Unlimited & Until You Pass (2 hours per session)"
+duration : "6 months Unlimited & Until You Pass"
+# weekly:
+weekly: "2 Hours"
 # course fee
 fee : "$211"
 # apply url

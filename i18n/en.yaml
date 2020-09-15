@@ -53,13 +53,13 @@
   translation: duration
 
 - id: weekly
-  translation: weekly
+  translation: hours per session
 
 - id: fee
   translation: fee
 
 - id: teacher
-  translation: teacher
+  translation: Teacher
 
 - id: location
   translation: location
