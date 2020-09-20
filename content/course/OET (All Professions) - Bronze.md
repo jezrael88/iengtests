@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The OET (All Professions) – Bronze programme is designed for healthcare professionals who wish to prepare for the OET exam with unlimited reviews within 6 months duration."
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/5.jpg"
 # taxonomy
 category: "OET"
 # teacher
@@ -15,7 +15,7 @@ teacher: "Roland Adala"
 # duration
 duration : "6 months Unlimited"
 # weekly:
-weekly: "2 Hours"
+weekly: "2 Hours/Class"
 # course fee
 fee : "$132"
 # apply url

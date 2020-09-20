@@ -1,5 +1,5 @@
 ---
-title: "4. IELTS Acad GT - Platinum"
+title: "4. IELTS Acad/GT - Platinum"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The IELTS Acad/GT – Platinum programme is designed for candidates who wish to prepare for the IELTS exam with unlimited reviews and 'Until You Pass' within 12 months duration. This means you can always come back to us and improve your score without paying an extra cost."
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/3.jpg"
 # taxonomy
 category: "IELTS"
 # teacher
@@ -15,7 +15,7 @@ teacher: "Roland Adala"
 # duration
 duration : "12 months Unlimited & Until You Pass"
 # weekly:
-weekly: "2 Hours"
+weekly: "2 Hours/Class"
 # course fee
 fee : "$276"
 # apply url

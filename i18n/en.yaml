@@ -53,7 +53,7 @@
   translation: duration
 
 - id: weekly
-  translation: hours per session
+  translation: Unlimited
 
 - id: fee
   translation: fee
