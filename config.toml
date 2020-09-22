@@ -71,7 +71,7 @@ weight = 5
 
 [[menu.footer]]
 name = "teacher"
-URL = "teacher"
+URL = "teacher/roland-adala"
 
 [[menu.footer]]
 name = "notice"
