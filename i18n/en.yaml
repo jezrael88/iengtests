@@ -50,10 +50,10 @@
   translation: Related Course
 
 - id: duration
-  translation: duration
+  translation: validity
 
 - id: weekly
-  translation: Unlimited
+  translation: duration
 
 - id: fee
   translation: fee

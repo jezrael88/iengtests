@@ -13,7 +13,7 @@ category: "IELTS"
 # teacher
 teacher: "Roland Adala"
 # duration
-duration : "12 months Unlimited & Until You Pass"
+duration : "12 months Until You Pass"
 # weekly:
 weekly: "2 Hours/Class"
 # course fee

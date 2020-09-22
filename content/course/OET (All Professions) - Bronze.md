@@ -57,6 +57,6 @@ You will then receive your Confirmation of Enrolment and your personal tutor wil
 If you have any questions regarding your applications, please contact our Enrolment Centre at [enrolment@iengtests.com](mailto:enrolment@iengtests.com) 
 
 
-### About the IELTS Director
+### About the OET Director
 
 Roland Adala is an IELTS and OET expert, journalist, linguist, and the Founder of iEngtests. He is a certified IELTS teacher by Cambridge & IELTS Australia. Roland has been teaching IELTS since 2015. He graduated in the UK with Distinctions. He also studied Joint Honours Degree in Journalism & Linguistics in the UK. Roland was a full UK International scholar, and was later awarded the European (ERASMUS) Scholarship by Bangor University to do BA – English at Humboldt University in Berlin, Germany. He is also a member of the National Union of Journalists based in the UK and Ireland since 2012.
