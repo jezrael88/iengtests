@@ -1,5 +1,5 @@
 ---
-title: "8. OET (All Professions) - Platinum"
+title: "08. OET (All Professions) - Platinum"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image

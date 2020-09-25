@@ -1,23 +1,23 @@
 ---
-title: "03. IELTS Acad/GT - Gold"
+title: "10. IELTS Acad/GT - Speaking"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "The IELTS Acad/GT – Gold programme is designed for candidates who wish to prepare for the IELTS exam with unlimited reviews and 'Until You Pass' within 6 months duration. This means you can always come back to us and improve your score without paying an extra cost."
+description : "The IELTS Acad/GT – Speaking programme is designed for candidates who wish to prepare the IELTS Speaking component with unlimited reviews within 3 months duration."
 # course thumbnail
-image: "images/courses/3.jpg"
+image: "images/courses/10.jpg"
 # taxonomy
 category: "IELTS"
 # teacher
 teacher: "Roland Adala"
 # duration
-duration : "6 months Until You Pass"
+duration : "3 months Unlimited"
 # weekly:
 weekly: "2 Hours/Class"
 # course fee
-fee : "$211"
+fee : "$85"
 # apply url
 apply_url : "#"
 # type
@@ -25,24 +25,23 @@ type: "course"
 ---
 
 
-This course is going to showcase all the IELTS fundamentals to help you achieve the score you need. You will receive the best recent learning materials with a systematic guidance on how to answer them with confidence. You will also have regular one-on-one sessions with one of our expert advisors to ensure that you have understood the lessons and to address your weak areas on each component. On top of that, you will have regular regular practice IELTS authentic exams in which not only will help you improve your score it will also help you boost your confidence to take the actual exam. </p>
+This course is going to showcase the IELTS Writing component to help you achieve the score you need. You will receive the best recent learning materials with a systematic guidance on how to answer them with confidence. You will also have regular one-on-one sessions with one of our expert advisors to ensure that you have understood the lessons and address your weak areas on this component. On top of that, you will have regular regular practice IELTS authentic exams in which not only will help you improve your score it will also help you boost your confidence to take the actual exam. </p>
 
 ### Inclusions
+
 
 
 * Unlimited Live Expert classes
 * Unlimited one-on-one coaching
 * Unlimited one-on-one Writing Assessments
-* Unlimited one-on-one Speaking Assessments
 * Unlimited Practice Questions
 * Unlimited Mock Tests (Authentic IELTS exams)
 * Methods Lessons
 * Sample Essays
-* Speaking Samples
-* Grammar Lessons
+* Grammar Hint Lessons
 * Progress Monitoring
 * Flexible review schedules
-* Review materials 
+* Review materials
 
 ### Requirements
 
