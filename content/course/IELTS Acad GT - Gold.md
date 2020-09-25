@@ -19,7 +19,7 @@ weekly: "2 Hours/Class"
 # course fee
 fee : "$211"
 # apply url
-apply_url : "#"
+apply_url : "/enrolment"
 # type
 type: "course"
 ---

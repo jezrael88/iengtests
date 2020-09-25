@@ -114,3 +114,6 @@
 
 - id: login
   translation: "login"
+
+- id: enrolment
+  translation: "Enrolment Form"

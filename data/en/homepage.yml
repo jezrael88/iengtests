@@ -12,7 +12,7 @@ slider:
       button:
         enable : true
         label : "Get a Pro Guidance"
-        link : "#"
+        link : "contact"
 
     # slider item loop
     - title : "Weekly Writing Challenge"
@@ -23,7 +23,7 @@ slider:
       button:
         enable : true
         label : "Yes to the challenge!"
-        link : "#"
+        link : "contact"
 
     # slider item loop
     - title : "1-on-1 Live Speaking Simulation"
@@ -34,7 +34,7 @@ slider:
       button:
         enable : true
         label : "Speak to the Expert"
-        link : "#"
+        link : "contact"
 
     # slider item loop
     - title : "Helping you every step of the way"
