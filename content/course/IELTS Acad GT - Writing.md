@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "The OET (All Professions) – Silver programme is designed for healthcare professionals who wish to prepare for the OET exam with unlimited reviews within 6 months duration."
+description : "The IELTS Acad/GT – Writing programme is designed for candidates who wish to prepare the IELTS Writing component with unlimited reviews within 3 months duration."
 # course thumbnail
 image: "images/courses/9.jpg"
 # taxonomy

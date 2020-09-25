@@ -25,7 +25,7 @@ type: "course"
 ---
 
 
-This course is going to showcase the IELTS Writing component to help you achieve the score you need. You will receive the best recent learning materials with a systematic guidance on how to answer them with confidence. You will also have regular one-on-one sessions with one of our expert advisors to ensure that you have understood the lessons and address your weak areas on this component. On top of that, you will have regular regular practice IELTS authentic exams in which not only will help you improve your score it will also help you boost your confidence to take the actual exam. </p>
+This course is going to showcase the IELTS Speaking component to help you achieve the score you need. You will receive the best recent learning materials with a systematic guidance on how to answer them with confidence. You will also have regular one-on-one sessions with one of our expert advisors to ensure that you have understood the lessons and address your weak areas on this component. On top of that, you will have regular regular practice IELTS authentic exams in which not only will help you improve your score it will also help you boost your confidence to take the actual exam. </p>
 
 ### Inclusions
 
@@ -33,12 +33,11 @@ This course is going to showcase the IELTS Writing component to help you achieve
 
 * Unlimited Live Expert classes
 * Unlimited one-on-one coaching
-* Unlimited one-on-one Writing Assessments
+* Unlimited one-on-one Speaking Assessments
 * Unlimited Practice Questions
 * Unlimited Mock Tests (Authentic IELTS exams)
 * Methods Lessons
-* Sample Essays
-* Grammar Hint Lessons
+* Speaking Samples
 * Progress Monitoring
 * Flexible review schedules
 * Review materials
