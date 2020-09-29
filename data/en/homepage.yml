@@ -100,7 +100,7 @@ cta:
   button:
     enable : true
     label : "Join Now"
-    link : "contact"
+    link : "https://www.facebook.com/iEngtests/groups/?ref=page_internal"
 
 
 ######################## Success story #############################
