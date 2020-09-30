@@ -76,7 +76,7 @@ weight = 4
 
 [[menu.footer]]
 name = "Private Study Groups"
-URL = "notice"
+URL = "https://www.facebook.com/iEngtests/groups/?ref=page_internal"
 weight = 1
 
 [[menu.footer]]
