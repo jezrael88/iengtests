@@ -19,7 +19,7 @@ weekly: "2 Hours/Class"
 # course fee
 fee : "$132"
 # apply url
-apply_url : "/enrolment"
+apply_url : "/oet-all-professions-bronze-enrolment-form"
 # type
 type: "course"
 ---

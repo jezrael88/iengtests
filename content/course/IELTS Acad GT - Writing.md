@@ -19,7 +19,7 @@ weekly: "2 Hours/Class"
 # course fee
 fee : "$85"
 # apply url
-apply_url : "/enrolment"
+apply_url : "/ielts-acad-gt-writing-enrolment-form"
 # type
 type: "course"
 ---
