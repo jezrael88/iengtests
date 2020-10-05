@@ -1,26 +1,20 @@
 {{ define "main" }}
 
-<!-- scholarship -->
+<!-- courses -->
 <section class="section">
   <div class="container">
-    <div class="row mb-5">
-      <div class="col-md-6 mb-4 mb-md-0">
-        <img class="img-fluid" src="{{ .Params.Image | relURL }}" alt="scholarship news">
-      </div>
-      <div class="col-md-6 content">
-        {{ .Content }}
-      </div>
-    </div>
-    <div class="row">
-      <!-- scholarship item -->
+    <!-- course list -->
+    <div class="row justify-content-center">
+      <!-- course item -->
       {{ range .Data.Pages }}
-      <div class="col-lg-4 col-sm-6 mb-4">
-        {{ .Render "scholarship" }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "course" }}
       </div>
       {{ end }}
     </div>
+    <!-- /course list -->
   </div>
 </section>
-<!-- /scholarship -->
+<!-- /courses -->
 
 {{ end }}
