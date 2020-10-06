@@ -4,6 +4,17 @@ slider:
   bg_image : "images/banner/banner-2.jpg"
   slider_item:
     # slider item loop
+    - title : "100% Scholarship Program for our frontliners"
+      content : "We know that in order to get the score you need for college admission or employment abroad, you need to surround yourself with the right support and have the right resources. This is where we come in - we want to give back to you as our frontliners and give you a full scholarship. We'll give you advice, nurture you, and connect with you so you too can create your success story."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply Now"
+        link : "scholarship/full-iengtests-scholarship-program"
+
+    # slider item loop
     - title : "Learn from our experts - ‘Until You Pass’"
       content : "Unlike other IELTS courses online, we do not leave you to yourself. You will have REAL LESSONS from a highly trained professional. Your goals are unique, the guidance you get on test preparations should be too."
       animation_in : "left"

@@ -86,7 +86,7 @@ weight = 2
 
 [[menu.footer]]
 name = "Scholarship"
-URL = "scholarship"
+URL = "scholarship/full-iengtests-scholarship-program"
 weight = 3
 
 #################### default parameters ################################
@@ -97,7 +97,7 @@ description = "iEngtests Test Preparations"
 author = "Themefisher"
 # contact info
 mobile = "+63 998 165 1871"
-email = "roland@iengtests.com"
+email = "enrolment@iengtests.com"
 # contact form action
 contact_form_action = "+639981651871" # contact form works with https://formspree.io
 # Google Analitycs
