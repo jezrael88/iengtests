@@ -8,8 +8,16 @@ image: "images/scholarship/scholarship1.jpg"
 # meta description
 description : "We are an ally to every aspiring heroes worldwide. We’ve helped thousands of professionals obtain their score requirement. And, we are a home to those who take heroic actions every day and live the community by example; we are here to make iEngtests heroes of the future. We’re here today, we’ll be here tomorrow. iEngtests for the heroes! 
 "
+# teacher
+teacher: "Roland Adala"
+# duration
+duration : "3 months unlimited"
+# weekly:
+weekly: "2 Hours/Class"
+# course fee
+fee : "FREE"
 # apply url
-apply_url : "/ielts-acad-gt-bronze-enrolment-form"
+apply_url : "/scholarship-application-form"
 ---
 
 We have a brand new initiative to support our COVID-19 heroes - we'll provide full scholarships for frontline healthcare professionals to attend IELTS or OET courses.
