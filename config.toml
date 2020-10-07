@@ -86,7 +86,7 @@ weight = 2
 
 [[menu.footer]]
 name = "Scholarship"
-URL = "scholarship/full-iengtests-scholarship-program"
+URL = "scholarship/full-scholarship-programme"
 weight = 3
 
 #################### default parameters ################################
