@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The IELTS Acad/GT – Silver programme is designed for candidates who wish to prepare for the IELTS exam with unlimited reviews within 12 months duration."
 # course thumbnail
-image: "images/courses/2.webp"
+image: "images/courses/22.webp"
 # taxonomy
 category: "IELTS"
 # teacher

@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The OET (All Professions) – Silver programme is designed for healthcare professionals who wish to prepare for the OET exam with unlimited reviews within 6 months duration."
 # course thumbnail
-image: "images/courses/6.webp"
+image: "images/courses/66.webp"
 # taxonomy
 category: "OET"
 # teacher
