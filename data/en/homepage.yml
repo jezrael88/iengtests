@@ -117,7 +117,7 @@ cta:
 ######################## Success story #############################
 success_story:
   enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
+  bg_image : "images/backgrounds/success-story.webp"
   title : "Success Stories"
   content : |
           "Personally, I think iEngtests is the best place for online IELTS preparation, especially for working people like me. Thank you Mr. Roland for providing me with detailed feedback for every writing task. I will definitely recommend it to everyone who is planning to sit in the IELTS test and want to achieve their desired band score." - Riya, India
