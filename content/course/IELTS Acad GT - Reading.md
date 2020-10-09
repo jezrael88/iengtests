@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The IELTS Acad/GT – Reading programme is designed for candidates who wish to prepare the IELTS Reading component with unlimited reviews within 3 months duration."
 # course thumbnail
-image: "images/courses/11.jpg"
+image: "images/courses/11.webp"
 # taxonomy
 category: "IELTS"
 # teacher

@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The OET (All Professions) – Reading programme is designed for healthcare professionals who wish to prepare the OET Reading sub-test with unlimited reviews within 3 months duration."
 # course thumbnail
-image: "images/courses/14.jpg"
+image: "images/courses/14.webp"
 # taxonomy
 category: "OET"
 # teacher

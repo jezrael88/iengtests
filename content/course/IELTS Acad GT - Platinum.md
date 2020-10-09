@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The IELTS Acad/GT – Platinum programme is designed for candidates who wish to prepare for the IELTS exam with unlimited reviews and 'Until You Pass' within 12 months duration. This means you can always come back to us and improve your score without paying an extra cost."
 # course thumbnail
-image: "images/courses/4.jpg"
+image: "images/courses/4.webp"
 # taxonomy
 category: "IELTS"
 # teacher

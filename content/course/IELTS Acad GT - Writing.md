@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The IELTS Acad/GT – Writing programme is designed for candidates who wish to prepare the IELTS Writing component with unlimited reviews within 3 months duration."
 # course thumbnail
-image: "images/courses/9.jpg"
+image: "images/courses/9.webp"
 # taxonomy
 category: "IELTS"
 # teacher

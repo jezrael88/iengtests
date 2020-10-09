@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The IELTS Acad/GT – Speaking programme is designed for candidates who wish to prepare the IELTS Speaking component with unlimited reviews within 3 months duration."
 # course thumbnail
-image: "images/courses/10.jpg"
+image: "images/courses/10.webp"
 # taxonomy
 category: "IELTS"
 # teacher
