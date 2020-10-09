@@ -13,7 +13,8 @@ VERSION:	Versoin Number
   font-family: 'futura-bold';
   src: url("../fonts/Futura-Bold.woff") format("woff");
   font-weight: normal;
-  font-style: normal; }
+  font-style: normal;
+  font-display: swap; }
 
 body {
   line-height: 1.2;
