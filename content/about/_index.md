@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
-image: "images/about/about-page.jpg"
+image: "images/about/about-page.webp"
 # meta description
 description : "iEngtests is an efficiency obsessed centre that helps test takers save time on test preparation while increasing results."
 # teacher
