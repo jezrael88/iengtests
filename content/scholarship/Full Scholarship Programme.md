@@ -19,11 +19,11 @@ fee : "FREE"
 apply_url : "/scholarship-application-form"
 ---
 
-We have a brand new initiative to support our COVID-19 heroes - we'll provide full scholarships for frontline healthcare professionals to attend IELTS or OET courses.
+"iEngtests appreciates the selfless and fearless determination of our frontliners worldwide.“
 
-The scholarships will cover all nationalities and all frontline healthcare workers - from doctors and nurses to hospital cleaners.
+We have a brand new initiative to support our COVID-19 heroes - we’ll provide up to 50 full scholarships for frontline healthcare professionals to attend IELTS or OET courses.
 
-"iEngtests appreciates the selfless and fearless determination of our frontliners worldwide."</p>
+The scholarships will cover all nationalities and all frontline nurse workers worldwide who need to prepare for their IELTS or OET exam. </p>
 
 ### Inclusions
 
@@ -34,13 +34,8 @@ The scholarships will cover all nationalities and all frontline healthcare worke
 * Unlimited one-on-one Speaking Assessments
 * Unlimited Practice Questions
 * Unlimited Mock Tests (Authentic exams)
-* Methods Lessons
-* Sample Essays
-* Speaking Samples
-* Grammar Hint Lessons
 * Progress Monitoring
 * Flexible review schedules
-* Review materials
 
 ### Requirements
 
@@ -52,6 +47,17 @@ The scholarships will cover all nationalities and all frontline healthcare worke
 One of our course representatives will get in touch with you to arrange for a phone call.
 
 If you have any questions regarding your applications, please contact our Enrolment Centre at [enrolment@iengtests.com](mailto:enrolment@iengtests.com)
+
+### P.S. Our course book is not included on this programme. 
+
+Our course book is a complete preparation for the IELTS or OET Test. It is the most comprehensive material to date that provides a thorough guide perfect for students who are in Intermediate and Advanced levels. It is designed for students aiming for Band 7 (Grade B) and above, it combines thorough language development with systematic test preparation and practice. Its units cover a wide range of motivating topics and give a sense of progress. This also includes:
+
+* Methods Lessons
+* Sample Essays
+* Speaking Samples
+* Grammar Hint Lessons
+
+You may purchase it at Php 1,000 ($20). 
 
 ### About the Director
 
