@@ -2,7 +2,7 @@
 title: "Terms and Conditions"
 draft: false
 # meta description
-description : "iEngtests Terms and Conditions"
+description : "If you have any questions about these Terms, please contact us."
 ---
 
 ### Terms & Conditions

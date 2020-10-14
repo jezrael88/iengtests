@@ -2,7 +2,7 @@
 title: "Privacy Statement"
 draft: false
 # meta description
-description : "iEngtests Privacy Statement"
+description : "Please note that this Privacy Statement may be updated from time to time. If you have any questions about this document or our terms of use, please contact us."
 ---
 
 # Privacy Statement
