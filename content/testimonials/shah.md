@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # scholarship image
 image: "images/testimonials/shah.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Shah's review from Bangladesh"
 # weight
 weight: 2
 ---

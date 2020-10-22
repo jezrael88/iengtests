@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # scholarship image
 image: "images/testimonials/savio.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Savio's review from India"
 # weight
 weight: "1"
 ---
