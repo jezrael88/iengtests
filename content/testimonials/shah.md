@@ -1,0 +1,14 @@
+---
+title: "Shah, Bangladesh"
+draft: false
+# page title background image
+bg_image: "images/backgrounds/page-title.jpg"
+# scholarship image
+image: "images/testimonials/shah.jpg"
+# meta description
+description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+# weight
+weight: 2
+---
+
+“A very good online platform for IELTS preparation. Especillay Roland is an awesome teacher. He gave me the best instruction for writing module. Their attitude and service is so nice. If any one seeks for an online teacher I will recommend Roland and this page. They can give proper guidelines and structures for IELTS."
