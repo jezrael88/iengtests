@@ -1,11 +1,13 @@
 ---
-title: "05. OET (All Professions) - Bronze"
+title: "OET (All Professions) - Bronze"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The OET (All Professions) – Bronze programme is designed for healthcare professionals who wish to prepare for the OET exam with unlimited reviews within 6 months duration."
+# weight
+weight: "5"
 # course thumbnail
 image: "images/courses/55.webp"
 # taxonomy

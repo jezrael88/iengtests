@@ -1,11 +1,13 @@
 ---
-title: "11. IELTS Acad/GT - Reading"
+title: "IELTS Acad/GT - Reading"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The IELTS Acad/GT – Reading programme is designed for candidates who wish to prepare the IELTS Reading component with unlimited reviews within 3 months duration."
+# weight
+weight: "11"
 # course thumbnail
 image: "images/courses/111.webp"
 # taxonomy

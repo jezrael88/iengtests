@@ -1,11 +1,13 @@
 ---
-title: "13. OET (All Professions) - Speaking"
+title: "OET (All Professions) - Speaking"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The OET (All Professions) – Speaking programme is designed for healthcare professionals who wish to prepare the OET Speaking sub-test with unlimited reviews within 3 months duration."
+# weight
+weight: "13"
 # course thumbnail
 image: "images/courses/113.webp"
 # taxonomy

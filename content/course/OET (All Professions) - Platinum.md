@@ -1,11 +1,13 @@
 ---
-title: "08. OET (All Professions) - Platinum"
+title: "OET (All Professions) - Platinum"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The OET (All Professions) – Platinum programme is designed for healthcare professionals who wish to prepare for the OET exam with unlimited reviews and 'Until You Pass' within 12 months duration. This means you can always come back to us and improve your score without paying an extra cost."
+# weight
+weight: "8"
 # course thumbnail
 image: "images/courses/88.webp"
 # taxonomy

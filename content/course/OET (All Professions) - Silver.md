@@ -1,11 +1,13 @@
 ---
-title: "06. OET (All Professions) - Silver"
+title: "OET (All Professions) - Silver"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The OET (All Professions) – Silver programme is designed for healthcare professionals who wish to prepare for the OET exam with unlimited reviews within 6 months duration."
+# weight
+weight: "6"
 # course thumbnail
 image: "images/courses/66.webp"
 # taxonomy

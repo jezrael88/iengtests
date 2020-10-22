@@ -85,6 +85,12 @@
 - id: links
   translation: links
 
+- id: ielts
+  translation: IELTS
+
+- id: oet
+  translation: OET
+
 - id: courses
   translation: Courses
 

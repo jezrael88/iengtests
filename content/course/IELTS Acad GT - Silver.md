@@ -1,11 +1,13 @@
 ---
-title: "02. IELTS Acad/GT - Silver"
+title: "IELTS Acad/GT - Silver"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The IELTS Acad/GT – Silver programme is designed for candidates who wish to prepare for the IELTS exam with unlimited reviews within 12 months duration."
+# weight
+weight: "2"
 # course thumbnail
 image: "images/courses/22.webp"
 # taxonomy

@@ -1,11 +1,13 @@
 ---
-title: "12. OET (All Professions) - Writing"
+title: "OET (All Professions) - Writing"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "The OET (All Professions) – Writing programme is designed for healthcare professionals who wish to prepare the OET Writing sub-test with unlimited reviews within 3 months duration."
+# weight
+weight: "12"
 # course thumbnail
 image: "images/courses/112.webp"
 # taxonomy
