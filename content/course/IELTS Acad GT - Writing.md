@@ -21,7 +21,7 @@ weekly: "2 Hours/Class"
 # course fee
 fee : "$85"
 # apply url
-apply_url : "/ielts-acad-gt-writing-enrolment-form"
+apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2C4ZW46RRXVJ4"
 # type
 type: "course"
 ---

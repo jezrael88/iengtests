@@ -21,7 +21,7 @@ weekly: "2 Hours/Class"
 # course fee
 fee : "$276"
 # apply url
-apply_url : "/oet-all-professions-platinum-enrolment-form"
+apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=THD6WFC5S2FXU"
 # type
 type: "course"
 ---

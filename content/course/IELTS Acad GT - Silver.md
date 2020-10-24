@@ -21,7 +21,7 @@ weekly: "2 Hours/Class"
 # course fee
 fee : "$158"
 # apply url
-apply_url : "/ielts-acad-gt-silver-enrolment-form"
+apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TLXMAQWJ6LWKS"
 # type
 type: "course"
 ---
