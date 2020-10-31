@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # scholarship image
-image: "images/testimonials/shah.jpg"
+image: "images/testimonials/shah.gif"
 # meta description
 description : "Shah's review from Bangladesh"
 # weight
