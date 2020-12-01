@@ -19,9 +19,9 @@ duration : "6 months Unlimited"
 # weekly:
 weekly: "2 Hours/Class"
 # course fee
-fee : "$132"
+fee : "$153"
 # apply url
-apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TZQ7PL8MVC36N"
+apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BAYH5N58X7VW6"
 # type
 type: "course"
 ---
