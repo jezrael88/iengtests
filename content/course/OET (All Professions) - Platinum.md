@@ -20,8 +20,9 @@ duration : "12 months Until You Pass"
 weekly: "2 Hours/Class"
 # course fee
 fee : "$297"
+feed : "$276"
 # apply url
-apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8Q5CGC2KGV2BG"
+apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=THD6WFC5S2FXU"
 # type
 type: "course"
 ---

@@ -4,6 +4,17 @@ slider:
   bg_image : "images/banner/banner-2.webp"
   slider_item:
     # slider item loop
+    - title : "Amazing Christmas Giveaway!"
+      content : "We are giving additional 1 month unlimited reviews + USD 20 OFF on all Course Programmes. This is only valid until 31 December 2020 only."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Hurry Now!"
+        link : "course"
+
+    # slider item loop
     - title : "Free IELTS/OET Course for our frontliners"
       content : "We know that in order to get the score you need for college admission or employment abroad, you need to surround yourself with the right support and have the right resources. This is where we come in - we want to give back to you as our frontliners and give you a full scholarship. We'll give you advice, nurture you, and connect with you so you too can create your success story."
       animation_in : "left"
@@ -12,7 +23,7 @@ slider:
       button:
         enable : true
         label : "Apply Now"
-        link : "scholarship/full-scholarship-programme"
+        link : "scholarship/full-scholarship-programme"    
 
     # slider item loop
     - title : "Learn from our experts - ‘Until You Pass’"
@@ -24,6 +35,17 @@ slider:
         enable : true
         label : "Get a Pro Guidance"
         link : "contact"
+
+    # slider item loop
+    - title : "Get USD 20 OFF + FREE additional 1 month reviews"
+      content : "Enjoy our special discounts and promos to celebrate the spirit of Christmas this holiday season (valid until 31 December 2020 only)."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Book Now"
+        link : "course"    
 
     # slider item loop
     - title : "Weekly Writing Challenge"
