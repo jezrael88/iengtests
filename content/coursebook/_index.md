@@ -12,7 +12,7 @@ price: "$20"
 # teacher
 teacher: "Roland Adala"
 # buynow
-buynow: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MYY8P7WH2JHZG"
+buynow_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MYY8P7WH2JHZG"
 
 ---
 
