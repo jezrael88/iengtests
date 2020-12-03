@@ -61,6 +61,12 @@
 - id: feed
   translation: Promo  
 
+- id: price
+  translation: Price    
+
+- id: buynow
+  translation: Buy Now! 
+
 - id: teacher
   translation: Teacher
 
