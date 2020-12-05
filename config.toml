@@ -144,6 +144,8 @@ mobile = "+63 998 165 1871"
 email = "enrolment@iengtests.com"
 # contact form action
 contact_form_action = "+639981651871" # contact form works with https://formspree.io
+# Google Tag Manager
+gtm_id = "GTM-K2DKHSR"
 # Google Analitycs
 google_analitycs_id = "1234" # your id
 # top header
