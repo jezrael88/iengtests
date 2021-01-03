@@ -44,4 +44,4 @@ Request correction of the personal data that we hold about you.
 Request erasure of your personal data.
 
 ________________________________________
-Please note that this Privacy Statement may be updated from time to time. If you have any questions about this document or our terms of use, please [contact us](contact).
+Please note that this Privacy Statement may be updated from time to time. If you have any questions about this document or our terms of use, please [contact us](https://iengtests.com/contact).

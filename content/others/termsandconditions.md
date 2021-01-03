@@ -51,4 +51,4 @@ The Terms are effective as of 07 September 2020 and are subject to change withou
 ________________________________________
 ### Contact Us
 
-If you have any questions about these Terms, please [contact us](../iengtests/contact).
+If you have any questions about these Terms, please [contact us](https://iengtests.com/contact).
