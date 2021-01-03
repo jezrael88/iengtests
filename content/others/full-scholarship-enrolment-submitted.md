@@ -14,7 +14,8 @@ Please keep your line open or check your email regularly as one of our course re
 
 As mentioned, the coursebook is not included in this programme. You may select which coursebook you require through this page. 
 
-[Click this to check the coursebook options](https://iengtests.com/coursebook).
+![iEngtests Coursebook Selections](/images/others/coursebook.png)
+### [Click this to check the coursebook options](https://iengtests.com/coursebook).
 
 If you have any questions regarding your applications, please contact our Enrolment Centre at enrolment@iengtests.com
 
