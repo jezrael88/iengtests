@@ -57,7 +57,7 @@ Our course book is a complete preparation for the IELTS or OET Test. It is the m
 * Speaking Samples
 * Grammar Hint Lessons
 
-[You may purchase it at Php 1,000 ($20)](https://iengtests.com/coursebook) 
+[You may purchase it for ($25)](https://iengtests.com/coursebook) 
 
 ### About the Director
 
