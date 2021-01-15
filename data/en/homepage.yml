@@ -4,8 +4,8 @@ slider:
   bg_image : "images/banner/banner-2.webp"
   slider_item:
     # slider item loop
-    - title : "Amazing Christmas Giveaway!"
-      content : "We are giving additional 1 month unlimited reviews + USD 20 OFF on all Course Programmes. This is only valid until 31 December 2020 only."
+    - title : "Achieve Your IELTS/OET Score in One Take!"
+      content : "Learn From A Filipino UK Professional - We Have Helped Over 5, 904 Students & Counting Achieve Their Desired Marks. Until You Pass Courses Offered. Certified IELTS Teacher By IDP & IELTS Australia. 100% Money-back Guarantee."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,8 +15,30 @@ slider:
         link : "course"
 
     # slider item loop
-    - title : "Free IELTS/OET Course for our frontliners"
-      content : "We know that in order to get the score you need for college admission or employment abroad, you need to surround yourself with the right support and have the right resources. This is where we come in - we want to give back to you as our frontliners and give you a full scholarship. We'll give you advice, nurture you, and connect with you so you too can create your success story."
+    - title : "Learn From A Filipino UK Professional"
+      content : "Improve Your English & Achieve Your IELTS/OET Score ASAP. Call Coach Roland For A FREE Consultation. Friendly Coach & Staff. Flexible Review Schedules. Unlimited & Until You Pass Tutorials. Unli Writing & Speaking Assessments. Unlimited Live Classes. 100% Money-back Guarantee."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Free Consultation"
+        link : "contact"   
+
+    # slider item loop
+    - title : "Unli And Until You Pass Course Programmes"
+      content : "Save Up To 50% When You Enrol Online! Improve & Achieve Your IELTS/OET Score. Works with a UK Highly Trained Professional. Certified IELTS Teacher By IDP & IELTS Australia. 100% Money-back Guarantee."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Enrol Now"
+        link : "course"
+
+    # slider item loop
+    - title : "FREE 3 months IELTS/OET UNLI reviews"
+      content : "We have a brand new initiative to support our COVID-19 heroes - we’ll provide up to 50 full scholarships for frontline healthcare professionals to attend IELTS or OET courses for FREE. 100% Money-back Guarantee."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -26,61 +48,17 @@ slider:
         link : "scholarship/full-scholarship-programme"    
 
     # slider item loop
-    - title : "Learn from our experts - ‘Until You Pass’"
-      content : "Unlike other IELTS courses online, we do not leave you to yourself. You will have REAL LESSONS from a highly trained professional. Your goals are unique, the guidance you get on test preparations should be too."
+    - title : "IELTS/OET Courses On Promo!"
+      content : "Save Up To 50% on Online Courses. Promo ends in 2 weeks. Free Books & Review Materials. Enrol Now! 100% Money-back Guarantee."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Get a Pro Guidance"
-        link : "contact"
+        label : "Hurry Now!"
+        link : "course"
 
-    # slider item loop
-    - title : "Get USD 20 OFF + FREE additional 1 month reviews"
-      content : "Enjoy our special discounts and promos to celebrate the spirit of Christmas this holiday season (valid until 31 December 2020 only)."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Book Now"
-        link : "course"    
-
-    # slider item loop
-    - title : "Weekly Writing Challenge"
-      content : "Learn to complete the writing tasks with time constraints like the REAL exam. Your writing will be assessed by a Cambridge Certified IELTS Expert and a member of National Union of Journalists (UK & Ireland)."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Yes to the challenge!"
-        link : "contact"
-
-    # slider item loop
-    - title : "1-on-1 Live Speaking Simulation"
-      content : "You will have a personal coach to help you improve your communication skills.   Your coach will determine your weak points and will give you detailed feedback via online."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Speak to the Expert"
-        link : "contact"
-
-    # slider item loop
-    - title : "Helping you every step of the way"
-      content : "Offering immediate access to a knowledgeable support network, interactive learning platforms, UK trained professionals and powerful educational resources where 90% of our graduates improved their scores by 0.5 - 1.5."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Contact Us"
-        link : "contact"        
-
-
+    
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
