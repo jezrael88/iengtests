@@ -21,7 +21,7 @@ weekly: "2 Hours/Class"
 # course fee
 fee : "$163"
 # course fee
-feed : "$142"
+feed : "$87"
 # apply url
 apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YMW2A5SVCGYS6"
 # type
