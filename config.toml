@@ -191,12 +191,14 @@ home = "Home"
 # copyright
 copyright = "![image](/images/guarantee.png)"
 
-copyright2 = "100% SCORE INCREASE GUARANTEE. We guarantee that you will see a score increase on at least one of the four test sections if you follow the instructions and study the lessons. ​​​​​​​If you do not increase your score, we will happily give you a 100% of your money back, no questions asked - that simple!"
+copyright2 = "100% SCORE INCREASE GUARANTEE!"
 
-copyright3 = "IELTS is a registered trademark of University of Cambridge, the British Council, and IDP Education Australia. OET is a registered trademark of Cambridge Assessment English and Boxhill Institute. This site and its owners are not affiliated, approved or endorsed by the University of Cambridge ESOL, the British Council, IDP Education Australia, and Cambridge Boxhill Language Assessment."
+copyright3 = "We guarantee that you will see a score increase on at least one of the four test sections if you follow the instructions and study the lessons. ​​​​​​​If you do not increase your score, we will happily give you a 100% of your money back, no questions asked - that simple!"
 
-copyright4 = "iENGTESTS is owned by iENGTESTS. Cofounders are UK professionals from England and Wales, China and the Philippines. For further information, please [click here](/about)."
+copyright4 = "IELTS is a registered trademark of University of Cambridge, the British Council, and IDP Education Australia. OET is a registered trademark of Cambridge Assessment English and Boxhill Institute. This site and its owners are not affiliated, approved or endorsed by the University of Cambridge ESOL, the British Council, IDP Education Australia, and Cambridge Boxhill Language Assessment."
 
-copyright5 = "[Privacy Statement](/others/privacystatement) | [Terms & Conditions](/others/termsandconditions)"
+copyright5 = "iENGTESTS is owned by iENGTESTS. Cofounders are UK professionals from England and Wales, China and the Philippines. For further information, please [click here](/about)."
 
-copyright6 = "Copyright &copy; 2020 iEngtests, All Rights Reserved. A hugo theme by [themefisher](https://themefisher.com)"
+copyright6 = "[Privacy Statement](/others/privacystatement) | [Terms & Conditions](/others/termsandconditions)"
+
+copyright7 = "Copyright &copy; 2020 iEngtests, All Rights Reserved. A hugo theme by [themefisher](https://themefisher.com)"

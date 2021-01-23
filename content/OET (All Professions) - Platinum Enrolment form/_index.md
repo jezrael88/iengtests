@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "OET (All Professions) - Platinum Enrolment form"
+description : "OET (All Professions) for $286 - Platinum Enrolment form"
 ---

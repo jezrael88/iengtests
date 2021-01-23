@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "IELTS Acad GT - Writing Enrolment form"
+description : "IELTS Acad GT for $95 - Writing Enrolment form"
 ---
