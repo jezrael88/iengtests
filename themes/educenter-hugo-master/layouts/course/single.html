@@ -41,7 +41,7 @@
               <i class="ti-wallet text-primary icon-md mr-2"></i>
               <div class="text-left">
                 <h6 class="mb-0">{{ i18n "fee" | upper }}</h6>
-                <p class="mb-0">{{ .Params.Fee }}</p>
+                <p class="mb-0">${{ .Params.Fee }}</p>
               </div>
             </div>
           </li>
@@ -50,14 +50,14 @@
               <i class="ti-wallet text-primary icon-md mr-2"></i>
               <div class="text-left">
                 <h6 class="mb-0">{{ i18n "feed" | upper }}</h6>
-                <p class="mb-0">{{ .Params.Feed }}</p>
+                <p class="mb-0">${{ .Params.Feed }}</p>
               </div>
             </div>
           </li>
         </ul>
       </div>
-      <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
-        <a href="{{ .Params.Apply_url | safeURL }}" class="btn btn-primary">{{ i18n "apply_now" }}</a>
+      <!-- Paypal Button details -->
+      <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0" id="paypal-payment-button">
       </div>
       <!-- border -->
       <div class="col-12 mt-4 order-4">
@@ -119,4 +119,21 @@
 </section>
 <!-- /related course -->
 
+<!-- Paypal source code-->
+<script src="https://www.paypal.com/sdk/js?client-id=Aac5fyneI95qgLiNN8o-Gqck34j7JElr0EZa4tuPLGPWAMDvxry5z3QN-nkRWle6yODohR5CfeUQmkdd"></script>
+<script>
+  var _amount = {{ .Params.feed }}
+  paypal.Buttons({
+    createOrder: function(data, actions) {
+      // This function sets up the details of the transaction, including the amount and line item details.
+      return actions.order.create({
+        purchase_units: [{
+          amount: {
+            value: _amount
+          }
+        }]
+      });
+    }
+  }).render('#paypal-payment-button');
+</script>
 {{ end }}
