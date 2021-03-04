@@ -6,6 +6,25 @@
       </ul>
       <h4 class="card-title"><a href="{{ .Params.Buynow_url | safeURL }}">{{ .Title }}</a></h4>
       <p class="card-text mb-4">{{ .Summary | truncate 100 }}</p>
-      <a href="{{ .Params.Buynow_url | safeURL }}" class="btn btn-primary btn-sm">{{ i18n "buynow"}}</a>
+    <!-- Paypal Button details -->
+      <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0" id="paypal-payment-button">
+      </div>
     </div>
-  </div>
+    
+</div>
+<!-- Paypal source code-->
+<script src="https://www.paypal.com/sdk/js?client-id=Aac5fyneI95qgLiNN8o-Gqck34j7JElr0EZa4tuPLGPWAMDvxry5z3QN-nkRWle6yODohR5CfeUQmkdd"></script>
+<script>
+  paypal.Buttons({
+    createOrder: function(data, actions) {
+      // This function sets up the details of the transaction, including the amount and line item details.
+      return actions.order.create({
+        purchase_units: [{
+          amount: {
+            value: 2
+          }
+        }]
+      });
+    }
+  }).render('#paypal-payment-button');
+</script>
