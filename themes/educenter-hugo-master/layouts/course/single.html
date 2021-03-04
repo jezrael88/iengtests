@@ -122,16 +122,24 @@
 <!-- Paypal source code-->
 <script src="https://www.paypal.com/sdk/js?client-id=Aac5fyneI95qgLiNN8o-Gqck34j7JElr0EZa4tuPLGPWAMDvxry5z3QN-nkRWle6yODohR5CfeUQmkdd"></script>
 <script>
-  var _amount = {{ .Params.feed }}
   paypal.Buttons({
     createOrder: function(data, actions) {
       // This function sets up the details of the transaction, including the amount and line item details.
       return actions.order.create({
         purchase_units: [{
           amount: {
-            value: _amount
-          }
+            value: {{ .Params.feed }}
+          },
+          description: {{ .Params.title }}
         }]
+      });
+    },
+    // Finalize the transaction
+    onApprove: function(data, actions) {
+      return actions.order.capture().then(function(details) {
+        // Show a success message to the buyer
+        alert('Please click Okay to proceed to the enrolment form. Transaction completed by ' + details.payer.name.given_name + '!');
+        window.location.replace('{{ .Params.apply_url }}');
       });
     }
   }).render('#paypal-payment-button');

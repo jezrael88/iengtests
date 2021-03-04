@@ -22,7 +22,7 @@ weekly: "2 Hours/Class"
 fee : "189"
 feed: "168"
 # apply url
-apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TLXMAQWJ6LWKS"
+apply_url : "https://iengtests.com/ielts-acad-gt-silver-enrolment-form/"
 # type
 type: "course"
 ---

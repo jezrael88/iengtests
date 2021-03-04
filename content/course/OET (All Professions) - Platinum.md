@@ -22,7 +22,7 @@ weekly: "2 Hours/Class"
 fee : "307"
 feed : "286"
 # apply url
-apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=THD6WFC5S2FXU"
+apply_url : "https://iengtests.com/oet-all-professions-platinum-enrolment-form/"
 # type
 type: "course"
 ---

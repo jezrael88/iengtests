@@ -22,7 +22,7 @@ weekly: "2 Hours/Class"
 fee : "115"
 feed : "95"
 # apply url
-apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F7DAYDCP5DHU8"
+apply_url : "https://iengtests.com/ielts-acad-gt-reading-enrolment-form/"
 # type
 type: "course"
 ---

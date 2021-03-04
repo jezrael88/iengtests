@@ -22,7 +22,7 @@ weekly: "2 Hours/Class"
 fee : "115"
 feed : "95"
 # apply url
-apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NGCKNK4EZ8ZXN"
+apply_url : "https://iengtests.com/oet-all-professions-speaking-enrolment-form/"
 # type
 type: "course"
 ---

@@ -23,7 +23,7 @@ fee : "163"
 # course fee
 feed : "142"
 # apply url
-apply_url : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YMW2A5SVCGYS6"
+apply_url : "https://iengtests.com/ielts-acad-gt-bronze-enrolment-form/"
 # type
 type: "course"
 ---
