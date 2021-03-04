@@ -22,7 +22,7 @@ weekly: "2 Hours/Class"
 fee : "307"
 feed: "286"
 # apply url
-apply_url : "iengtests.com/ielts-acad-gt-platinum-enrolment-form/"
+apply_url : "https://iengtests.com/ielts-acad-gt-platinum-enrolment-form/"
 # type
 type: "course"
 ---
