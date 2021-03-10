@@ -21,7 +21,7 @@ weekly: "2 Hours/Class"
 # course fee
 fee : "163"
 # course fee
-feed : "142"
+feed : "81.50"
 # apply url
 apply_url : "https://iengtests.com/ielts-acad-gt-bronze-enrolment-form/"
 # type

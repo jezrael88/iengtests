@@ -20,7 +20,7 @@ duration : "12 months Unlimited"
 weekly: "2 Hours/Class"
 # course fee
 fee : "189"
-feed: "168"
+feed: "94.50"
 # apply url
 apply_url : "https://iengtests.com/ielts-acad-gt-silver-enrolment-form/"
 # type

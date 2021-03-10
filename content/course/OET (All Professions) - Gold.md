@@ -20,7 +20,7 @@ duration : "6 months Until You Pass"
 weekly: "2 Hours/Class"
 # course fee
 fee: "242"
-feed : "221"
+feed : "121"
 # apply url
 apply_url : "https://iengtests.com/oet-all-professions-gold-enrolment-form/"
 # type

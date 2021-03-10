@@ -20,7 +20,7 @@ duration : "6 months Unlimited"
 weekly: "2 Hours/Class"
 # course fee
 fee : "163"
-feed: "142"
+feed: "81.50"
 # apply url
 apply_url : "https://iengtests.com/oet-all-professions-bronze-enrolment-form/"
 # type
