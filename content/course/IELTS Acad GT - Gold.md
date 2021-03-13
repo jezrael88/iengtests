@@ -19,8 +19,8 @@ duration : "6 months Until You Pass"
 # weekly:
 weekly: "2 Hours/Class"
 # course fee
-fee : "242"
-feed: "121"
+fee : "11726"
+feed: "5863"
 # apply url
 apply_url : "https://iengtests.com/ielts-acad-gt-gold-enrolment-form/"
 # type

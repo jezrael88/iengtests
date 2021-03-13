@@ -41,7 +41,7 @@
               <i class="ti-wallet text-primary icon-md mr-2"></i>
               <div class="text-left">
                 <h6 class="mb-0">{{ i18n "fee" | upper }}</h6>
-                <p class="mb-0">${{ .Params.Fee }}</p>
+                <p class="mb-0">₱{{ .Params.Fee }}</p>
               </div>
             </div>
           </li>
@@ -50,7 +50,7 @@
               <i class="ti-wallet text-primary icon-md mr-2"></i>
               <div class="text-left">
                 <h6 class="mb-0">{{ i18n "feed" | upper }}</h6>
-                <p class="mb-0">${{ .Params.Feed }}</p>
+                <p class="mb-0">₱{{ .Params.Feed }}</p>
               </div>
             </div>
           </li>
@@ -120,7 +120,7 @@
 <!-- /related course -->
 
 <!-- Paypal source code-->
-<script src="https://www.paypal.com/sdk/js?client-id=AQt0uWPVpn-5ENsLwJa-S3w3jhttsEG6QGdP4cVbHitvp8whHtian30G2DmOH-42Tcv1zF57mzH58E0j"></script>
+<script src="https://www.paypal.com/sdk/js?client-id=AQt0uWPVpn-5ENsLwJa-S3w3jhttsEG6QGdP4cVbHitvp8whHtian30G2DmOH-42Tcv1zF57mzH58E0j&currency=PHP"></script>
 <script>
   paypal.Buttons({
     createOrder: function(data, actions) {
@@ -128,7 +128,7 @@
       return actions.order.create({
         purchase_units: [{
           amount: {
-            value: {{ .Params.feed }}
+            value: {{ .Params.feed }},
           },
           description: {{ .Params.title }}
         }]

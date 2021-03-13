@@ -19,8 +19,8 @@ duration : "12 months Until You Pass"
 # weekly:
 weekly: "2 Hours/Class"
 # course fee
-fee : "307"
-feed: "153.50"
+fee : "14876"
+feed: "7438"
 # apply url
 apply_url : "https://iengtests.com/ielts-acad-gt-platinum-enrolment-form/"
 # type

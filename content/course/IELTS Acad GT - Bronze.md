@@ -19,9 +19,9 @@ duration : "6 months Unlimited"
 # weekly:
 weekly: "2 Hours/Class"
 # course fee
-fee : "163"
+fee : "7898"
 # course fee
-feed : "81.50"
+feed : "3949"
 # apply url
 apply_url : "https://iengtests.com/ielts-acad-gt-bronze-enrolment-form/"
 # type

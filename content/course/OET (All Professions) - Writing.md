@@ -19,8 +19,8 @@ duration : "3 months Unlimited"
 # weekly:
 weekly: "2 Hours/Class"
 # course fee
-fee : "115"
-feed : "95"
+fee : "5573"
+feed : "4603"
 # apply url
 apply_url : "https://iengtests.com/oet-all-professions-writing-enrolment-form/"
 # type
