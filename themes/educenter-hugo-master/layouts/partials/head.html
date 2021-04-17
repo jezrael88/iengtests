@@ -3,7 +3,8 @@
   <title>{{ .Title }}</title>
 
   {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }}
-
+  <meta name="facebook-domain-verification" content="qx7bd60az3rfg7xn8t1w86wyk6xvtg" />
+  
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
