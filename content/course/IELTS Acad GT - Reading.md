@@ -15,7 +15,7 @@ category: "IELTS"
 # teacher
 teacher: "Roland Adala"
 # duration
-duration : "3 months Unlimited"
+duration : "1 month Unlimited"
 # weekly:
 weekly: "2 Hours/Class"
 # course fee
