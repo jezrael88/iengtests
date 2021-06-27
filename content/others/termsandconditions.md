@@ -5,50 +5,109 @@ draft: false
 description : "If you have any questions about these Terms, please contact us."
 ---
 
-### Terms & Conditions
+# Terms & Conditions
 
-iENGTESTS maintains this website, any courses offered and other linked and related sites (the “Site”) for the use of its customers, vendors, students, and other Site users (“Users”) upon agreement to the following terms. Please read the terms carefully before using the Site. Use of this website indicates acceptance of these “Terms of Use” and forms a binding agreement between you and iENGTESTS.
+These terms and conditions outline the rules and regulations for the use of iENGTESTS’s Website, located at https://iENGTESTS.com/
+
+By accessing this website we assume you accept these terms and conditions. Do not continue to use iENGTESTS if you do not agree to take all of the terms and conditions stated on this page.
+
+The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance, and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of the provision of the Company’s stated services, in accordance with and subject to, prevailing law of the Philippines. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 ________________________________________
-### 1. Use of Site
+### COOKIES
 
-iENGTESTS provides various materials, information, quizzes, tests, questions, articles, news and other information on this and related sites and in courses offered through this site (the “Materials”. iENGTESTS authorizes each User to view and download one copy of the Materials. Materials may be downloaded and a maximum of one copy of the Materials may be printed provided that Users make no modifications to the Materials and you retain all copyright and other proprietary notices contained in the original Materials on any copies of the Materials. Users may not modify the Materials at this Site in any way or reproduce, share or distribute them. Users will keep all Materials confidential, and will not sell, auction, loan, rent, give away, describe, summarize, or otherwise reveal the Materials or their contents, to any other person or entity. Any breach of these Terms of Use automatically terminates your authorized use of the Site.
+We employ the use of cookies. By accessing iENGTESTS, you agreed to use cookies in agreement with the iENGTESTS's Privacy Policy.
+Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.
 
+### LICENSE
 
-### 2. User Warranty
+Unless otherwise stated, iENGTESTS and/or its licensors own the intellectual property rights for all material on iENGTESTS. All intellectual property rights are reserved. You may access this from iENGTESTS for your own personal use subjected to restrictions set in these terms and conditions.
 
-As a User you warrant that you are not an agent or employee of any other test preparation company and the Site and Materials are solely for the purpose of increasing your English test score.
+You must not:
+Republish material from iENGTESTS
+Sell, rent or sub-license material from iENGTESTS
+Reproduce, duplicate or copy material from iENGTESTS
+Redistribute content from iENGTESTS
 
+### THIS AGREEMENT SHALL BEGIN ON THE DATE HEREOF.
 
-### 3. Trademark and Copyright
+Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. iENGTESTS does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of iENGTESTS, its agents, and/or affiliates. Comments reflect the views and opinions of the person who posts their views and opinions. To the extent permitted by applicable laws, iENGTESTS shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
 
-iENGTESTS, and certain other brands, trademarks, and service marks are marks of iENGTESTS and its affiliates. The Materials on this Site are copyrighted, and any unauthorized use of any Materials on this Site may violate copyright, trademark, and other laws.
+iENGTESTS reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive, or causes breach of these Terms and Conditions.
 
+### You warrant and represent that:
 
-### 4. Hyperlinks
+You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;
+The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;
+The Comments do not contain any defamatory, libellous, offensive, indecent or otherwise unlawful material which is an invasion of privacy
+Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.
+You hereby grant iENGTESTS a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce, and edit any of your Comments in any and all forms, formats, or media.
 
-Links to external websites are provided solely as a convenience to you. iENGTESTS has not reviewed all of these external websites, does not control and is not responsible for any of these sites or their content. If you decide to access any of the external websites linked to this Site, you do so entirely at your own risk.
+### COURSE ENROLMENT
 
+As a student, when you enrol in a course, whether it’s a free or paid course, you are getting review materials from us. However, this does not give you any right to resell, reproduce, rent the material, duplicate, or redistribute content from iENGTESTS.  
 
-### 5. No Warranty
+We generally give ‘Unlimited’ preparation courses for our students. However, when a student has decided to book and take the exam, without finishing his/her course validity, iENGTESTS may decide to no longer provide teaching assistance, speaking assessments, writing assessments or Q&A services in association with a course. On the other hand, if a student is enroled in an ‘Until You Pass’ course, and has taken the exam but unsuccessful, he/she may still continue the course and receive our services, without paying any extra cost. 
 
-The Materials provided at this site are provided “as is” without any warranties of any kind including warranties of merchantability, fitness for a particular purpose, or non-infringement of intellectual property. iENGTESTS further does not warrant the accuracy and completeness of the Materials at this Site. iENGTESTS may make changes to the Materials at this Site, or to the services and prices described in them, at any time without notice. The Materials at this Site may be out of date, and iENGTESTS makes no commitment to update the Materials at this Site.
+Students may upgrade their course within 30 days from the time of their review (not on the enrolment date). After 30 days from the review date, no course package upgrade shall be granted. 
 
+### REFUND POLICY
 
-### 6. Limitation of Liability
+iENGTESTS offers a 100% no-questions-asked refund policy given that:
+- Refund request is made within 7 days of your enrolment date
+- You have NOT booked a speaking assessment
+- You have NOT participated in any writing challenge
+- You have NOT consumed/received any of the course content including but not limited to:
+- Watching any of the course videos (partially or fully)
+- Receiving our review materials
+- You have NOT accessed our Private Facebook groups
 
-In no event will iENGTESTS, its suppliers, or other third parties mentioned at this Site be liable for any damages whatsoever (including, without limitation, those resulting from lower test scores, interruption of services or inaccurate information) arising out of the use, inability to use, or the results of the use of this Site, any websites liked to this Site, or the Materials or information contained at any or all such sites, whether based on warranty, contract, tort or any other legal theory and whether or not advised of the possibility of such damages. If your use of the Materials or information from this Site results in the need for servicing, repair or correction of equipment or data, you assume all costs thereof.
+Our refund window is only made to help you gain confidence that we do have course content, we do have practice tests, we do have a Facebook group and all of the other services we advertised on our website. Once you have commenced the course and/or received our review materials, this would make you ineligible for a refund.
 
+### NON REFUNDABLE FEES
 
-### 7. Applicable Law
+No refund is available to students where:
 
-The Terms of Use are governed by the laws of the province of the Philippines. Failure to enforce strict performance of the Terms of Use of Use shall not be construed as a waiver of any provision or right. iENGTESTS may assign its rights and duties under the Terms of Use without notice to any party at any time.
+- A student has already commenced the course and received the review materials; the full cost of the course is applicable. 
+- The reservation fee of 20% is non-refundable except in the event that iENGTESTS is unable to run the course.
 
+### 100% SCORE INCREASE GUARANTEE
 
-### 8. Effective Date and Updates
+iENGTESTS offers a 100% score increase guarantee under these conditions:
+- You must have taken the exam for less than 1 year before you enrol with us 
+- You must have participated in at least 4 consecutive writing assessments of which you achieved higher than overall band score 7 or B grade.
+- You must have followed our examiner's instructions in the speaking assessment evaluation.
+- You must have joined at least one of our speaking workshops if our examiner advised so in your initial speaking assessment.
+- You must have fully consumed all the material and resources in our band 7+ kit.
+- You must have attended the full curriculum of our LIVE & Coaching sessions.
+- You must have tried your best and used our resources to their greatest potential.
+- You must have asked our teacher’s guidance and permission prior you book your exam. 
+- You can only claim 100% money back guarantee within 6 months of your registration.
 
-The Terms are effective as of 07 September 2020 and are subject to change without notice by iENGTESTS at any time. Please check for changes regularly. Your use of this Site after such changes constitutes your agreement to such changes.
+What constitutes “trying your best” is fully up to iENGTESTS’ discretion
 
-________________________________________
-### Contact Us
+### REFUNDS UPON WITHDRAWAL BY STUDENT
 
-If you have any questions about these Terms, please [contact us](https://iengtests.com/contact).
+If a student withdraws from the course, within 7 days from the enrolment date, and did not receive our course materials, a full refund will be granted. However, if a student withdraws from the course, within 7 days from the enrolment date and has not commenced the review yet, but he/she received our review materials, a refund will be granted, less the non refundable reservation fee of 20% (see payment of refund below). 
+
+### REFUNDS DUE TO COURSE CANCELLATION
+
+In the unlikely event that iENGTESTS is not able to run the course, or it does not start on the scheduled date, iENGTESTS will:
+- Provide a full refund of the Course fee and Reservation fee, OR
+- Upon written agreement with the student, place the student in an alternate suitable course with iENGTESTS.
+
+Refunds due to iENGTESTS default in this instance will be paid within 14 days (see payment of refunds below)
+
+### APPLICATION FOR REFUND & WITHDRAWAL
+
+- Apply in writing to iENGTESTS.
+- Submit your letter via email to: enrolment@iengtests.com
+- Applicants are advised of the outcome within 10 days of receipt.
+- Approved refunds are paid within 4 weeks of the application (see payment of refund below).
+
+### PAYMENT OF REFUND
+
+Approved refunds are paid within 4 weeks of the application for refund.
+- Refunds due to default by iENGTESTS are paid in full within 14 working days.
+- All monies paid for the course will be transferred in Philippines Peso, less the reservation fee.
+- All refunds will be paid to the person who entered into the agreement (the person on the enrolment form).
+- A refund may be paid to a different nominated person, only with written confirmation from the person who entered into the agreement.
