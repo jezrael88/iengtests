@@ -142,7 +142,7 @@ contact_form_action = "+639981651871" # contact form works with https://formspre
 # Google Tag Manager
 gtm_id = "GTM-WDWF22D"
 # Google Analitycs
-google_analitycs_id = "1234" # your id
+google_analitycs_id = "UA-178007698-1"
 # top header
 top_header = true
 
