@@ -10,7 +10,7 @@ description : "We are an ally to every aspiring heroes worldwide. We’ve helped
 # teacher
 teacher: "Roland Adala"
 # duration
-duration : "3 months unlimited"
+duration : "1 month"
 # weekly:
 weekly: "2 Hours/Class"
 # course fee

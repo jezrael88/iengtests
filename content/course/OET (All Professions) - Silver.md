@@ -15,7 +15,7 @@ category: "OET"
 # teacher
 teacher: "Roland Adala"
 # duration
-duration : "12 months Unlimited"
+duration : "6 months Unlimited"
 # weekly:
 weekly: "2 Hours/Class"
 # course fee
