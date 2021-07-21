@@ -1,6 +1,12 @@
 {{ "<!-- client logo slider -->" | safeHTML}}
 <section class="bg-white py-4">
 	<div class="container">
+		<div class="row">
+			<div class="col-sm-12 text-sm-center text-center">
+			  <h2 class="mb-0 text-nowrap mr-3 center">Our Partners:</h2>
+			</div>
+			</div>
+		  </div>
 		<div class="client-logo-slider align-self-center">
 			{{ range .Site.Params.clients_logo_slider }}
 			{{ if and ( ne .link "" ) ( ne .link "#" ) }}

@@ -458,12 +458,6 @@ textarea.form-control {
   width: 85px;
   object-fit: cover; }
 
-/* 10. client logo slider start */
-.client-logo-slider .slick-track {
-  display: flex;
-  align-items: center; }
-
-/* client logo slider end */
 .top-header {
   font-size: 12px;
   transition: transform .2s ease;
@@ -754,6 +748,12 @@ link:focus,
   right: 0; }
 
 /* /teacher */
+/* client logo slider start */
+.client-logo-slider .slick-track {
+  display: flex;
+  align-items: center; }
+
+/* client logo slider end */
 /* footer */
 .newsletter {
   background-image: linear-gradient(to right, transparent 50%, #ffbc3b 50%);

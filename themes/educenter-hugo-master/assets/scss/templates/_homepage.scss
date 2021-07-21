@@ -162,6 +162,14 @@
 
 /* /teacher */
 
+/* client logo slider start */
+.client-logo-slider .slick-track {
+  display: flex;
+  align-items: center;
+}
+
+/* client logo slider end */
+
 /* footer */
 .newsletter {
   background-image: linear-gradient(to right, transparent 50%, $primary-color 50%);
