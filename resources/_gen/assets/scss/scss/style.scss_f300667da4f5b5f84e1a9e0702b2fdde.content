@@ -458,6 +458,12 @@ textarea.form-control {
   width: 85px;
   object-fit: cover; }
 
+/* 10. client logo slider start */
+.client-logo-slider .slick-track {
+  display: flex;
+  align-items: center; }
+
+/* client logo slider end */
 .top-header {
   font-size: 12px;
   transition: transform .2s ease;
@@ -788,7 +794,7 @@ link:focus,
 
 .footer {
   border-color: #494a43 !important;
-  padding-top: 275px; }
+  padding-top: 100px; }
 
 /* /footer */
 .filter-controls li {

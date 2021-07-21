@@ -204,4 +204,8 @@
 {{ end }}
 <!-- /blog -->
 
+{{ if $data.homepage.clients_logo_slider.enable }}
+{{ partial "clientsLogoSlider.html" . }}
+{{ end }}
+
 {{ end }}

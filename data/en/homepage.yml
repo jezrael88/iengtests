@@ -128,3 +128,8 @@ blog:
   enable : false
   title : "Expert Tips & Tutorials"
   # blog item comes from "content/**/blog" folder.
+
+################################ clints logo slider ################################
+clients_logo_slider:
+  enable : true
+  # clients logo comes from "config.toml" folder
